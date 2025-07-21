@@ -25,24 +25,24 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-### Linguagens e Tecnologias
+### Linguagens e Tecnologias  
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
-### Frameworks e Bibliotecas
+### Frameworks e Bibliotecas  
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mysql,postgres,mongodb)](https://skillicons.dev)
 
-### Ferramentas
+### Ferramentas  
 [![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,tailwind)](https://skillicons.dev)
 
 ---
 
-## 📚 Meus estudos e projetos
+Sou formado em Assistente de Logística e concluí a graduação em Ciências da Computação pela Estácio em dezembro de 2024.
 
-Tenho organizado meus aprendizados e anotações em projetos práticos que refletem a transformação da teoria em prática. Meu portfólio está em desenvolvimento e traz os projetos mais relevantes da minha trajetória.
+Tenho me aprofundado em JavaScript, com foco em React.js e Next.js para o front-end e Node.js com Express para o back-end. Também venho explorando bancos de dados como MySQL, PostgreSQL e MongoDB, além de ferramentas como Tailwind CSS e Docker, aplicando esses conhecimentos em projetos acadêmicos e pessoais que compõem meu portfólio.
 
----
+Acredito que aprender construindo é o melhor caminho, por isso sempre busco transformar teoria em prática e desenvolver soluções reais 🚀
 
-## 📫 Como me encontrar
+Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
 
 <p align="left">
   <a href="mailto:ribeirocruzps99@gmail.com" title="Enviar e-mail">
@@ -60,9 +60,9 @@ Tenho organizado meus aprendizados e anotações em projetos práticos que refle
 
 ## 📊 Minhas estatísticas no GitHub
 
-<a href="https://github.com/talysoncruz_dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talysoncruz_dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talysoncruz_dev&layout=compact&langs_count=6&theme=radical" />
+<a href="https://github.com/TalysonCruz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalysonCruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalysonCruz&layout=compact&langs_count=6&theme=radical" />
 </a>
 
 ---
@@ -70,14 +70,14 @@ Tenho organizado meus aprendizados e anotações em projetos práticos que refle
 ## 📈 Atividade recente
 
 <div align="center">
-  [![Talyson Cruz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talysoncruz_dev&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/talysoncruz_dev)
+  [![Talyson Cruz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TalysonCruz&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/TalysonCruz)
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=talysoncruz_dev&locale=pt-br&mode=weekly&theme=omni&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />  
-  <img src="https://github-profile-trophy.vercel.app?username=talysoncruz_dev&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=TalysonCruz&locale=pt-br&mode=weekly&theme=omni&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/username=TalysonCruz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="trophy graph" />
 </div>
 
 ---
