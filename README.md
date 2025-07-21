@@ -61,25 +61,5 @@ Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conte
 ## 📊 Minhas estatísticas no GitHub
 
 <a href="https://github.com/TalysonCruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalysonCruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalysonCruz&layout=compact&langs_count=6&theme=radical" />
 </a>
-
----
-
-## 📈 Atividade recente
-
-<div align="center">
-  [![Talyson Cruz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TalysonCruz&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/TalysonCruz)
-</div>
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TalysonCruz&locale=pt-br&mode=weekly&theme=omni&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/username=TalysonCruz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="trophy graph" />
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B" alt="footer"/>
