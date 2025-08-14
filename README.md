@@ -9,9 +9,8 @@
 
 ## Sobre mim
 
-- 🖥️ Formação em Assistente de Logística  
-- 🎓 Graduado em Ciências da Computação pela Estácio (Concluído em 12/2024)  
-- 📚 Estudo JavaScript, TypeScript, React.js, Next.js e Node.js para desenvolvimento Full Stack  
+ - 🎓 Graduado em Ciências da Computação pela Estácio (Concluído em 12/2024)  
+- 📚 Estudo JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind e Node.js para desenvolvimento Full Stack  
 - 🌍 Apaixonado por explorar novas tecnologias e desenvolver soluções que impactem positivamente  
 - ❤️ Acredito que aprender construindo é o melhor caminho — sempre aplico teoria na prática 🚀
 
